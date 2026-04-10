@@ -1,0 +1,32 @@
+.hero{
+  padding:120px 0;
+  text-align:center;
+  background:var(--light);
+}
+
+.hero h1{
+  font-size:52px;
+  margin-bottom:20px;
+}
+
+.hero img {
+  margin: 10px auto;
+  width: 100%;
+  max-width: 500px; /* grows but stays controlled */
+}
+
+.hero p{
+  font-size:18px;
+  max-width:600px;
+  margin:auto;
+  margin-bottom:30px;
+}
+
+.hero button{
+  padding:12px 28px;
+  border:none;
+  background:var(--primary);
+  color:white;
+  cursor:pointer;
+  font-size:14px;
+}
