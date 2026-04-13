@@ -1,11 +1,11 @@
-# 🧘‍♀️ Adina at TYI — My Yoga Journey
+# Adina at TYI — My Yoga Journey
 
 A minimal, elegant blog-style web application to document my learning and experiences at *The Yoga Institute (TYI)*.
 Built with a clean aesthetic, calming tones, and a focus on simplicity — just like yoga itself.
 
 ---
 
-## ✨ Overview
+## Overview
 
 This project is a personal digital journal where I:
 
@@ -16,7 +16,7 @@ This project is a personal digital journal where I:
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -34,7 +34,7 @@ This project is a personal digital journal where I:
 
 ---
 
-## 🧠 Architecture
+## Architecture
 
 This project follows a **serverless architecture**, meaning:
 
@@ -42,7 +42,7 @@ This project follows a **serverless architecture**, meaning:
 Frontend (React) → Supabase (Database & API)
 ```
 
-## 🙌 Author
+## Author
 
 **Adina Shahapure**
 Documenting a journey of discipline, growth, and inner peace.
